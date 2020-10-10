@@ -365,6 +365,10 @@ img.aligncenter {
 img.aligncenter:first-child {
  margin-top:0
 }
+.group-company { background:#008dcd; height:120px; padding:30px 20px 0 20px; margin:30px; width:220px;
+}
+.group-company h1{ font-size:18px; text-align:center; color:#FFF; font-weight:700;
+}
 img.aligncenter:last-child {
  margin-bottom:0
 }
